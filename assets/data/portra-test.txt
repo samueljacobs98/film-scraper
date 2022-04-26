@@ -1,0 +1,1 @@
+{"title":"Kodak Portra 160 120 Film Single","info":"Kodak Portra 160 needs little introduction. It is one of the most popular films on the market today and a favourite choice for a huge amount of film photographers. The perfect film for portraits.","style":"colour","iso":"160","format":"120"}
